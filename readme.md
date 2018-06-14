@@ -2,6 +2,11 @@
 
 A simple bookmarklet that enables picture-in-picture for videos across the web, using [`webkitSetPresentationMode`](https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls).
 
+## Instructions
+
+1. create a new bookmark with the contents of `bookmarklet.js` as the address
+2. click on it
+
 ## Compatibility
 
 Incorporates 2 methods for finding the `video` tag:
