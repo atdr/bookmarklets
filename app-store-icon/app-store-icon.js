@@ -1,0 +1,1 @@
+javascript:location.href = document.querySelector('picture#ember589>img').getAttribute('src').replace(/\/[^\/]*$/,'/1024x0w.png');

@@ -1,19 +1,8 @@
-# Picture-in-Picture bookmarklet for Safari
+# Bookmarklets
 
-A simple bookmarklet that enables picture-in-picture for videos across the web, using [`webkitSetPresentationMode`](https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls).
+These are some useful tools for doing things faster.
 
 ## Instructions
 
-1. create a new bookmark with the contents of `bookmarklet.js` as the address
+1. create a new bookmark with the contents of the `.js` files as the address
 2. click on it
-
-## Compatibility
-
-Incorporates 2 methods for finding the `video` tag:
-
-- in the main document (YouTube, Netflix, most sites)
-- inside the first `iframe` (BBC iPlayer)
-
-## Tips
-
-For sites with multiple players (like [Panopto](https://www.panopto.com)), modify the index in `document.getElementsByTagName('video')[0]` to target a specific player.
