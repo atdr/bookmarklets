@@ -1,1 +1,1 @@
-javascript:location.href = document.querySelector('picture#ember589>img').getAttribute('src').replace(/\/[^\/]*$/,'/1024x0w.png');
+javascript:location.href = document.querySelector('picture.we-artwork--ios-app-icon>img').getAttribute('src').replace(/\/[^\/]*$/,'/1024x0w.png');
